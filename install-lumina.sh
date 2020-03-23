@@ -4,3 +4,4 @@ cd lumina-1.6.0
 sudo qmake
 sudo make
 sudo make install
+cd..
