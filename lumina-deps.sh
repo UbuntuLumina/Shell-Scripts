@@ -5,5 +5,5 @@ sudo apt install libxcb-ewmh-dev libxcb-composite0-dev libxcb-damage0-dev -y
 sudo apt install libxcb-util0-dev libphonon-dev libxcomposite-dev libxdamage-dev -y
 sudo apt install libxrender-dev libxcb-image0-dev libxcb-screensaver0-dev -y
 sudo apt install qtdeclarative5-dev fluxbox kde-style-oxygen xscreensaver xbacklight -y
-sudo apt install alsa-utils acpi numlockx pavucontrol xterm sysstat libxcursor -y
+sudo apt install alsa-utils acpi numlockx pavucontrol xterm sysstat libxcursor-dev -y
 sudo apt install libqt5concurrent5 libqt5core5a -y
